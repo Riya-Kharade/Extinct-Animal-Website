@@ -29,5 +29,5 @@ This website was created as a part of the Environmental Studies subject to raise
 <br><br>
 <br>
 <b>📩 Contact</b><br>
-projectpsr2k23@gmail.cpom
+projectpsr2k23@gmail.com
 For any inquiries, reach out via the Contact Us page.
