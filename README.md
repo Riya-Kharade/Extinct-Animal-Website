@@ -5,7 +5,7 @@
 <b>Environmental Studies Website 🌿</b><br>
 A website designed to make the Environmental Studies subject more engaging and interactive. This project was created to spread awareness about environmental issues and present information in a more interactive way.
 
-<b>🌎 Features<b><br>
+<b>🌎 Features</b><br>
 Home Page: Basic structure and introduction to the website.<br>
 Information Page:
 Downloadable pamphlet, project proposal, and report.
@@ -15,18 +15,19 @@ Showcases images and information about animals that are no longer present.<br>
 About Us Page:
 Information about the project team, the institution, and the purpose of the project.
 Contact Us Page: A formal contact page.
-
+<br>
+<br
 <br>
 <b>🔧 Technologies Used</b><br>
 HTML5
 CSS3
 
 <br>
-<b></b>🎯 Purpose</b></br>
+<b>🎯 Purpose</b></br>
 This website was created as a part of the Environmental Studies subject to raise awareness about environmental issues in an engaging and interactive way. By providing downloadable resources and informative content, we aim to educate people on the importance of environmental conservation.
 
-
+<br><br>
 <br>
-<b></b>📩 Contact</b><br>
+<b>📩 Contact</b><br>
 projectpsr2k23@gmail.cpom
 For any inquiries, reach out via the Contact Us page.
