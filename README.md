@@ -2,7 +2,7 @@
 🌍 A website created for the Environmental Studies subject to make learning more interactive.<br> 📄 Includes home, information, extinct animals, and contact pages. <br> 📥 Download pamphlet, project proposal, and report.
 
 <br>
-<b>Environmental Studies Website 🌿</b><br>
+<b>🌿Environmental Studies Website </b><br>
 A website designed to make the Environmental Studies subject more engaging and interactive. This project was created to spread awareness about environmental issues and present information in a more interactive way.
 <br><br><br>
 <b>🌎 Features</b><br>
