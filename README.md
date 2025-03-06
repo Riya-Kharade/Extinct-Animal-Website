@@ -26,11 +26,9 @@ CSS3
 This website was created as a part of the Environmental Studies subject to raise awareness about environmental issues in an engaging and interactive way. By providing downloadable resources and informative content, we aim to educate people on the importance of environmental conservation.<br><hr>
 📩 Contact Information
 If you have any questions or feedback, feel free to reach out via the Contact Us page or connect with me through GitHub.
-
+<br>
 📧 Email: riyasunilkharade.vit@gmail.com
 🔗 GitHub: https://github.com/riya-kharade
 <br><br>
 <br>
-<b>📩 Contact</b><br>
-projectpsr2k23@gmail.com
-For any inquiries, reach out via the Contact Us page.
+
