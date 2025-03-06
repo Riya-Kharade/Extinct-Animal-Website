@@ -28,7 +28,7 @@ This website was created as a part of the Environmental Studies subject to raise
 If you have any questions or feedback, feel free to reach out via the Contact Us page or connect with me through GitHub.
 <br>
 📧 Email: riyasunilkharade.vit@gmail.com
-🔗 GitHub: https://github.com/riya-kharade
+🔗 GitHub: https://github.com/riya-kharade<br>
 <br><br>
-<br>
+<hr>
 
