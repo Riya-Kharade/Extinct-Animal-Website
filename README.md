@@ -4,7 +4,7 @@
 <br>
 <b>🌿Environmental Studies Website </b><br>
 A website designed to make the Environmental Studies subject more engaging and interactive. This project was created to spread awareness about environmental issues and present information in a more interactive way.
-<br><br><br>
+<br><hr>
 <b>🌎 Features</b><br>
 Home Page: Basic structure and introduction to the website.<br>
 Information Page:
@@ -16,16 +16,19 @@ About Us Page:
 Information about the project team, the institution, and the purpose of the project.
 Contact Us Page: A formal contact page.
 <br>
-<br
-<br>
-<br>
+<hr>
 <b>🔧 Technologies Used</b><br>
 HTML5
 CSS3
-<br><br>
+<br><hr>
 <br>
 <b>🎯 Purpose</b><br>
-This website was created as a part of the Environmental Studies subject to raise awareness about environmental issues in an engaging and interactive way. By providing downloadable resources and informative content, we aim to educate people on the importance of environmental conservation.
+This website was created as a part of the Environmental Studies subject to raise awareness about environmental issues in an engaging and interactive way. By providing downloadable resources and informative content, we aim to educate people on the importance of environmental conservation.<br><hr>
+📩 Contact Information
+If you have any questions or feedback, feel free to reach out via the Contact Us page or connect with me through GitHub.
+
+📧 Email: riyasunilkharade.vit@gmail.com
+🔗 GitHub: https://github.com/riya-kharade
 <br><br>
 <br>
 <b>📩 Contact</b><br>
